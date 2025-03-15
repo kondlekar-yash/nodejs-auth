@@ -15,6 +15,7 @@ const PORT = process.env.PORT || 4000;
 app.use(express.json());
 
 app.use("/api/auth", authRoutes);
+app.use("/api/home", homeRoutes);
 
 app.listen(PORT, () => {
   console.log(`Server is now listeining to PORT ${PORT}`);
