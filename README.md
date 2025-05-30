@@ -1,2 +1,3 @@
-Built with Express, MongoDB, JWT, and bcrypt to implement secure user authentication and authorisation.
-👉 Focus: Registration/login flows, password hashing, JWT-based route protection, environment configs, role based access.
+A lightweight setup using Node.js, Express, and Socket.IO to understand real-time bidirectional communication.
+Also setup of exploring MongoDB aggregation pipelines.
+👉 Focus: WebSocket basics, event handling, client-server messaging, MongoDB.
